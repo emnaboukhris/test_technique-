@@ -16,13 +16,18 @@ https://user-images.githubusercontent.com/79046370/166921271-f0e3b22c-3b0b-46f9-
 
 
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
 PART 2 : 
 cette partie consiste à consommer un API et afficher les données dans un tableau
 
 
-![module2](https://user-images.githubusercontent.com/79046370/166921962-c36c8aae-0702-42b8-ae3b-a60b0efefab2.PNG) https://user-images.githubusercontent.com/79046370/166920895-1d686f90-54ed-4528-b15f-6cc4cdb6cdd5.mp4
+![module2](https://user-images.githubusercontent.com/79046370/166921962-c36c8aae-0702-42b8-ae3b-a60b0efefab2.PNG)
+
+
+https://user-images.githubusercontent.com/79046370/166920895-1d686f90-54ed-4528-b15f-6cc4cdb6cdd5.mp4
 
 
 
